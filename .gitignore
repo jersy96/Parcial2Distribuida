@@ -1,0 +1,9 @@
+Cracker/*
+Cracker/*/*
+!Cracker/src
+!Cracker/src/*
+
+DistributedProgrammingUtilities/*
+DistributedProgrammingUtilities/*/*
+!DistributedProgrammingUtilities/src
+!DistributedProgrammingUtilities/src/*
